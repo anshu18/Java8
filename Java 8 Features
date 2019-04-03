@@ -1,0 +1,24 @@
+support for functional programming
+easse of high volume data processing by stream
+ease of use by getting parameter names through reflection
+reusable code with enhanced collection apis
+smart exception handling with optional
+control on jvm with new parameters
+enhanced encryption support with base 64
+faster excution with nashorn javaScript engine support
+
+What is lam bda expression?
+ans--> it is an anonymous function.no need of modifiers no return value,it accepts a set of input parameters and return result.
+it can be passed as parameter in amethod so we can treat code in lambda expression as data.this piece of code can be passedto other
+objects and methods.
+
+three main parts of lambda ?
+parameter list - 0 or more parameter
+arrow -> lambda arrow operator .it separates the list of parameters and the body.
+expression body--{ }
+
+data type of lambda ?
+it fulfils the purpose of passing code as data.data type is function interface.
+
+
+
